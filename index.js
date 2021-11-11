@@ -58,10 +58,10 @@ console.log(resGrade);
 // threatCalc(10);
 const valueOfMakanan = 8;
 const valueOfPelayanan = 7;
-console.log("-------------");
+console.log("-----[himpunan makanan]--------");
 console.log(makanan.lezat(valueOfMakanan))
 console.log(makanan.tengik(valueOfMakanan))
-console.log("-------------");
+console.log("-----[himpunan m]--------");
 console.log(pelayanan.jelek(valueOfPelayanan))
 console.log(pelayanan.sedang(valueOfPelayanan))
 console.log(pelayanan.bagus(valueOfPelayanan))
