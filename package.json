@@ -1,0 +1,15 @@
+{
+  "name": "fuzzy-coba",
+  "version": "1.0.0",
+  "description": "coba fuzzy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Titam Septian",
+  "license": "ISC",
+  "dependencies": {
+    "fuzzylogic": "^0.3.5",
+    "validator": "^13.7.0"
+  }
+}
